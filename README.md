@@ -5,6 +5,7 @@ Our app was hosted via EC2 and DynamoDB and developed under AGILE and Scrum meth
 
 
 **SETUP AND RUNNING CODE**
+
 The EC2 and backend were both shut down due to operational costs, but the code can be ran via localhost using React and Vite.
 
 1) Download and unpack the zip file
