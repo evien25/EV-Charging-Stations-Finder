@@ -3,6 +3,8 @@ This was a small-team project, focussed on bringing accessibility to electric ve
 
 Our app was hosted via EC2 and DynamoDB and developed under AGILE and Scrum methodologies, focussing on professional deliverables and industry-standard software engineering principles
 
+The Google Maps API keys and authentication will expire by 2026, and the API calls will be routed via EC2 and DynamoDB (in case they are not working correctly via localhost)
+
 
 **SETUP AND RUNNING CODE**
 
